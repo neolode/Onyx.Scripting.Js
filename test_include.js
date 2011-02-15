@@ -1,0 +1,1 @@
+function xz(){return "ze xZ";}
