@@ -20,3 +20,5 @@ MockUp.wait_key();
 function z(){return "ze Z";}
 
 MockUp.printl(z());
+
+MockUp.printl(xz());// method from included files :D

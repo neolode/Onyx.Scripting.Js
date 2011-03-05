@@ -10,7 +10,7 @@ using Microsoft.JScript;
 
 namespace OnyxJS
 {
-    public class ScriptManager //: MarshalByRefObject, IScriptManager
+    public class ScriptManager : MarshalByRefObject//, IScriptManager
     {
         public void CompileAndExecuteFile(string[] file, string[] args)
         {
