@@ -1,0 +1,7 @@
+/.svn/
+/bin/
+/obj/
+/Properties/
+/*.JS.suo
+/*.JS.csproj.user
+/*.JS.api.csproj.user
