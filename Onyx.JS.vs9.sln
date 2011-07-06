@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onyx.JS", "Onyx.JS.csproj", "{434F4AD8-429B-48D8-85DD-AB2CCA304DBB}"
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onyx.JS", "Onyx.JS.vs9.csproj", "{434F4AD8-429B-48D8-85DD-AB2CCA304DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onyx.JS.api", "Onyx.JS.api.csproj", "{DC11F65D-A965-4720-BB42-99F495EE7B8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onyx.JS.api", "Onyx.JS.api.vs9.csproj", "{DC11F65D-A965-4720-BB42-99F495EE7B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
