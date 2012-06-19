@@ -6,6 +6,12 @@ import OnyxJS;
 //MockUp.print(s) -- prints a variable
 //MockUp.wait_key() -- vaits 4 user input
 
+//OnyxJS
+//+-Core.console
+//x0.console.write(<expression>)	-- prints an expression result
+//x0.console.writel(<expression>)	-- prints an expression result and imediatly goes to a new line
+//x0.console.waitKey()				-- vaits 4 user input
+
 var string="string test";
 MockUp.printl(string);
 
@@ -22,3 +28,7 @@ function z(){return "ze Z";}
 MockUp.printl(z());
 
 MockUp.printl(xz());// method from included files :D
+
+x0.console.Write('x0 is born');
+
+MockUp.wait_key();

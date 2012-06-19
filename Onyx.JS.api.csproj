@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="x0.cs" />
+    <Compile Include="x0\console.cs" />
     <Compile Include="MockUp.cs">
       <SubType>Code</SubType>
     </Compile>
